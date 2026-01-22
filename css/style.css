@@ -232,6 +232,7 @@ img{
 }
 
 .main {
+  padding-top: 60px;
   position: relative;
   padding-top: calc(var(--header-bar-h) + 90px);
   align-items: center;
