@@ -226,7 +226,7 @@ img{
 @media (max-width: 450px) {
 
 .header-glass {
-    top: 40px;
+    
     width: calc(100% - 30px);
     }
 }
