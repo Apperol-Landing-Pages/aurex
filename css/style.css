@@ -159,8 +159,7 @@ img{
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 14px 22px;
-    padding-top: 30px;
+  padding: 25px 22px 14px 22px;
 }
 
 .nav-toggle {
