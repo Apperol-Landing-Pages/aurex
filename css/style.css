@@ -155,7 +155,7 @@ img{
 }
 
 .header-bar {
-  max-height: 15px;  
+  max-height: 5px;  
   display: flex;
   align-items: center;
   justify-content: space-between;
