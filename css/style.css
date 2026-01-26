@@ -155,11 +155,11 @@ img{
 }
 
 .header-bar {
-  max-height: 5px;  
+  height: 25px;  
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 25px 22px 14px 22px;
+  padding: 18px 22px 18px 22px;
 }
 
 .nav-toggle {
@@ -231,7 +231,7 @@ img{
     min-height: 25px;
     }
   .header-bar{
-        padding: 25px 22px 10px 22px;
+        padding: 25px 22px 25px 22px;
     }
 }
 
