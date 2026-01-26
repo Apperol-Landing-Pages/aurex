@@ -229,6 +229,9 @@ img{
     width: calc(100% - 30px);
     min-height: 25px;
     }
+  .header-bar{
+        padding: 25px 22px 10px 22px;
+    }
 }
 
 .main {
