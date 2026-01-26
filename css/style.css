@@ -197,6 +197,7 @@ img{
   display: flex;
   flex-direction: column;
   gap: 6px;
+  margin: 0 auto;
 }
 
 .nav-dropdown .nav-list a {
