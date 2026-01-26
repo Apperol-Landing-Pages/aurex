@@ -902,3 +902,8 @@ position: relative;
         width: 100%;
     }
 }
+@media (max-width: 450px) {
+    .header-bar{
+    padding: 0px 22px;
+    }
+}
