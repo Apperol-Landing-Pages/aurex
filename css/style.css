@@ -227,6 +227,7 @@ img{
 .header-glass {
     
     width: calc(100% - 30px);
+    height: calc(10% - 25px);
     }
 }
 
